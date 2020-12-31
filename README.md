@@ -5,7 +5,6 @@
 <img src="https://user-images.githubusercontent.com/72906508/103413160-32a1ad00-4b2d-11eb-8edb-32fbd28ea108.gif" alt="coding" width="400" height="300" align="right">
 
 
-- 👨‍💻 You can also check out my portfolio at [https://AK-I-RA.github.io/](https://AK-I-RA.github.io/)
 
 - 📫 How to reach me **ankitrawat7895@gmail.com**
 

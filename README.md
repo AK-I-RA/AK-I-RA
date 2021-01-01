@@ -27,13 +27,11 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&theme=radical" alt="AK-I-RA" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-i-ra&show_icons=true&locale=en&layout=compact" alt="ak-i-ra" /></p>
+
 
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
 
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&theme=radical" alt="AK-I-RA" /></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&&theme=radical" alt="AK-I-RA" /></p>
+|<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
+|---|---|
 

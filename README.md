@@ -30,7 +30,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-i-ra&show_icons=true&locale=en&layout=compact" alt="ak-i-ra" /></p>
 
 
+
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+---
 
 |<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
 |---|---|

@@ -33,6 +33,7 @@
 
 <p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&theme=radical" alt="AK-I-RA" /></p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&&theme=radical" alt="AK-I-RA" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&&theme=radical" alt="AK-I-RA" /></p>
 

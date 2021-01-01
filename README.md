@@ -31,7 +31,7 @@
 
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
 
-<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&theme=radical" alt="AK-I-RA" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&theme=radical" alt="AK-I-RA" /></p>
 
-<p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&&theme=radical" alt="AK-I-RA" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&&theme=radical" alt="AK-I-RA" /></p>
 

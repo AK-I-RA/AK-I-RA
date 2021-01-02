@@ -8,9 +8,13 @@
 
 
 
-- 📫 How to reach me **ankitrawat7895@gmail.com**
+- 📫 You can reach me at: **ankitrawat7895@gmail.com**
+
+- 💼 _I'm actively seeking internship opportunities.
 
 - ⚡ Fun fact **I think I am funny XD**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

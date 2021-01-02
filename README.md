@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit rawat" height="30" width="40" /></a>
-<a href="https://instagram.com/ankitrawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankitrawat7895" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankit_rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankit_rawat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankit rawat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ankit_rawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ankit_rawat7895" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ankit rawat" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankit rawat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit rawat" height="40" width="40" /></a>
+<a href="https://instagram.com/ankitrawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankitrawat7895" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/ankit_rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankit_rawat" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankit rawat" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/ankit_rawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ankit_rawat7895" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ankit rawat" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankit rawat" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

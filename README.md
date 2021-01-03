@@ -16,7 +16,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝🤝</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit rawat" height="40" width="40" /></a>
 <a href="https://instagram.com/ankitrawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankitrawat7895" height="40" width="40" /></a>
@@ -34,6 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-i-ra&show_icons=true&locale=en&layout=compact" alt="ak-i-ra" /></p>
 

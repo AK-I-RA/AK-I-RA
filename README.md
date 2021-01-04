@@ -1,6 +1,10 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-<h1 align="center">Hi 👋,I'm AK-I-RA </h1>
+
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[AK-I-RA](https://github.com/AK-I-RA)<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
+
+
+
 <h3 align="center">A Boy trying to Figure-Out new Stuff!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AK-I-RA&label=Profile%20views&color=129e00&style=plastic" alt="AK-I-RA" /> </p>

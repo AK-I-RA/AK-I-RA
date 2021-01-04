@@ -22,15 +22,32 @@
 
 <h3 align="left">Connect with me 🤝🤝</h3>
 
-<p align="left">
-<a href="https://linkedin.com/in/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit rawat" height="40" width="40" /></a>
-<a href="https://instagram.com/ankitrawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankitrawat7895" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/ankit_rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankit_rawat" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankit rawat" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/ankit_rawat7895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ankit_rawat7895" height="40" width="40" /></a>
-<a href="https://www.hackerearth.com/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="ankit rawat" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ankit rawat" height="40" width="40" /></a>
-</p>
+
+
+
+<div align="left">
+ <a href="https://linkedin.com/in/ankit rawat" target="blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/AK-I-RA" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codeforces.com/profile/AK-I-RA" target="blank">
+<img src=https://img.shields.io/badge/codeforces-%23F28032.svg?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerearth.com/ankit rawat" target="blank">
+<img src=https://img.shields.io/badge/hackerearth-%23292929.svg?&style=for-the-badge&logo=hackerearth&logoColor=white alt=hackerearth style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.codechef.com/users/ankit_rawat" target="blank">
+<img src=https://img.shields.io/badge/codechef-%232E87FB.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ankitrawat7895" target="blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/ankit rawat" target="blank">
+<img src=https://img.shields.io/badge/hackerrank-%2300acee.svg?&style=for-the-badge&logo=hackerrank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ### Languages and Tools 🔧🔨
 ![C++](https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=A8B9CC)
@@ -50,4 +67,5 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
 |---|---|
+
 

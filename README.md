@@ -26,7 +26,10 @@
 
 
 <div align="left">
- <a href="https://linkedin.com/in/ankit rawat" target="blank">
+ 
+ <a href="https://linkedin.com/in/ankit rawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankit rawat" height="40" width="40" /></a>
+ 
+<a href="https://linkedin.com/in/ankit rawat" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AK-I-RA" target="_blank">

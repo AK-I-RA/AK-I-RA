@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">A Boy trying to Figure-Out new Stuff!!!</h3>
+<h3 align="center">A Boy trying to Figure-Out new Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AK-I-RA&label=Profile%20views&color=129e00&style=plastic" alt="AK-I-RA" /> </p>
 <img src="https://user-images.githubusercontent.com/72906508/103413160-32a1ad00-4b2d-11eb-8edb-32fbd28ea108.gif" alt="coding" width="400" height="300" align="right">

@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at: **ankitrawat7895@gmail.com**
 
-- 💼 _I'm actively seeking internship opportunities.
+- 💼 I'm actively seeking internship opportunities.
 
 - ⚡ Fun fact **I think I am funny XD**
 

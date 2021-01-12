@@ -42,7 +42,6 @@
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-i-ra&show_icons=true&locale=en&layout=compact" alt="ak-i-ra" /></p>
 
 
 
@@ -53,4 +52,4 @@
 |---|---|
 
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact" alt="AK-I-RA" />

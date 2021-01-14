@@ -35,7 +35,7 @@
 
 
 <div align="center">
-<a herf="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
+<a herf="https://www.linkedin.com/in/ankit-rawat/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://github.com/AK-I-RA" target="_blank">

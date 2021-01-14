@@ -19,28 +19,71 @@
 - ⚡ Fun fact **I think I am funny XD**
 
 
-
-<h3 align="left">Connect with me 🤝🤝🤝</h3>
-
-
-
-[<img src="https://img.shields.io/badge/AKIRA-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankit-rawat-934b731b8/)
-[<img src = "https://img.shields.io/badge/AKIRA-%2320A1F1.svg?&style=for-the-badge&logo=codechef&logoColor=white&color=007396">](https://www.codechef.com/users/ankit_rawat)
-[<img src = "https://img.shields.io/badge/AKIRA-%181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=FF2D20">](https://codeforces.com/profile/AK-I-RA)
-[<img src = "https://img.shields.io/badge/AKIRA-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://instagram.com/ankitrawat7895)
-[<img src = "https://img.shields.io/badge/AKIRA-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC">](https://github.com/AK-I-RA)
-[<img src = "https://img.shields.io/badge/AKIRA-%181717.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=F37626">](https://www.hackerrank.com/ankitrawat7895)
-[<img src = "https://img.shields.io/badge/AKIRA-%181717.svg?&style=for-the-badge&logo=hackerearth&logoColor=white&color=232F3E">](https://www.hackerearth.com/@ankitrawat7895)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-### Languages and Tools 🔧🔨
-![C++](https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=A8B9CC)
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3 align="center">Connect with me 🤝🤝🤝</h3>
+
+
+
+<div align="center">
+<a herf="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://github.com/AK-I-RA" target="_blank">
+<img src=https://img.shields.io/badge/github-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
+<img src=https://img.shields.io/badge/codeforces-%181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=FF2D20 alt=codeforces style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%181717.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=F37626 alt=hackerrank style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/hackerearth-%181717.svg?&style=for-the-badge&logo=hackerearth&logoColor=white&color=232F3E alt=hackerearth style="margin-bottom: 5px;" />
+</a>  
+<a href="https://instagram.com/ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
+
+
+
+
+<h3 align="center">Languages and Tools 🔧🔨</h3>
+
+
+
+<div align="center">
+<a target="_blank">
+<img src=https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=A8B9CC alt=c++ style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26 alt=html5 style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6 alt=css3 style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C alt=bootstrap style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032 alt=git style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB alt=python style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white alt=visual-studio style="margin-bottom: 5px;" />
+</a>
+</div>
+
 
 
 

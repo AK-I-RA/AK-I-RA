@@ -35,8 +35,8 @@
 
 
 <div align="center">
-<a herf="https://www.linkedin.com/in/ankit-rawat/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ <a herf="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://github.com/AK-I-RA" target="_blank">
 <img src=https://img.shields.io/badge/github-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC alt=github style="margin-bottom: 5px;" />

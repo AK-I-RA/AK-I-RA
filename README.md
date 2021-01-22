@@ -53,6 +53,9 @@
 <a href="https://instagram.com/ankitrawat7895" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
+<img src=https://img.shields.io/badge/codechef-%181717.svg?&style=for-the-badge&logo=codechef&logoColor=white&color=007396 alt=codechef style="margin-bottom: 5px;" />
+</a>
 </div>
 
 

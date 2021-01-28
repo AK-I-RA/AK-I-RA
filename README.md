@@ -16,6 +16,8 @@
 
 - 💼 I'm actively seeking internship opportunities.
 
+- 🤝 Looking to **collaborate** on innovative ideas and projects
+
 - ⚡ Fun fact **I think I am funny XD**
 
 

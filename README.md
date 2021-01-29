@@ -11,10 +11,9 @@
 <img src="https://user-images.githubusercontent.com/72906508/103413160-32a1ad00-4b2d-11eb-8edb-32fbd28ea108.gif" alt="coding" width="400" height="300" align="right">
 
 
+- 🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.
 
-- 📫 You can reach me at: **ankitrawat7895@gmail.com**
-
-- 💼 I'm actively seeking internship opportunities.
+- 📫 You can reach me at: **ankitrawat7895@gmail.com**.
 
 - 🤝 Looking to **collaborate** on innovative ideas and projects
 

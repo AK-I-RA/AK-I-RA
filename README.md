@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[AK-I-RA](https://github.com/AK-I-RA)<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Ankit Rawat](https://github.com/AK-I-RA)<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
 
 
 

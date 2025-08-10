@@ -5,12 +5,6 @@
 🤝 Let's collaborate and build something amazing!
 
 
-
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
-|---|---|
- 
- ---
-
 ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/kotharidhruv/" target="_blank">

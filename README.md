@@ -1,104 +1,55 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Dhruv Kothari](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+![GitHub Logo](https://github.com/kothariji/kothariji/blob/master/dhruv%20github%20banner-min.jpeg)
 
+👨‍💻 I'm a passionate software engineer with 2 years of industry experience crafting captivating web experiences.
 
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Ankit Rawat](https://github.com/AK-I-RA)<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
+⚒️ My expertise lies in React, Javascript, UX/UI design, web performance optimization, and building complex front-ends, including robust Design Systems. I've also ventured into mobile development with React Native.
 
+🖌️ Beyond coding, I excel at web design, crafting stunning landing pages and components with Figma.
 
+✍️ As a technical writer, I've penned articles on competitive programming, web development, and the developer lifestyle.
 
-<h3 align="center">A Boy trying to Figure-Out new Stuff!!</h3>
+🏆 My competitive spirit shines through my victories in inter-college coding events and strong performance in global coding challenges.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AK-I-RA&label=Profile%20views&color=129e00&style=plastic" alt="AK-I-RA" /> </p>
-<img src="https://user-images.githubusercontent.com/72906508/103413160-32a1ad00-4b2d-11eb-8edb-32fbd28ea108.gif" alt="coding" width="400" height="300" align="right">
+🤝 Let's collaborate and build something amazing!
 
-
-- 🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.
-
-- 📫 You can reach me at: **ankitrawat7895@gmail.com**.
-
-- 🤝 Looking to **collaborate** on innovative ideas and projects
-
-- ⚡ Fun fact **I think I am funny XD**
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<h3 align="center">Connect with me 🤝🤝🤝</h3>
-
-
-
-<div align="center">
- <a href="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-<a href="https://github.com/AK-I-RA" target="_blank">
-<img src=https://img.shields.io/badge/github-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
-<img src=https://img.shields.io/badge/codeforces-%181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=FF2D20 alt=codeforces style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/ankitrawat7895" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%181717.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=F37626 alt=hackerrank style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
-<img src=https://img.shields.io/badge/hackerearth-%181717.svg?&style=for-the-badge&logo=hackerearth&logoColor=white&color=232F3E alt=hackerearth style="margin-bottom: 5px;" />
-</a>  
-<a href="https://instagram.com/ankitrawat7895" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
-<img src=https://img.shields.io/badge/codechef-%181717.svg?&style=for-the-badge&logo=codechef&logoColor=white&color=007396 alt=codechef style="margin-bottom: 5px;" />
-</a>
-</div>
-
-
-
-
-<h3 align="center">Languages and Tools 🔧🔨</h3>
-
-
-
-<div align="center">
-<a target="_blank">
-<img src=https://img.shields.io/badge/c++-%3776AB.svg?style=for-the-badge&logo=c++&logoColor=white&color=A8B9CC alt=c++ style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26 alt=html5 style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6 alt=css3 style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C alt=bootstrap style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032 alt=git style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB alt=python style="margin-bottom: 5px;" />
-</a>
-<a target="_blank">
-<img src=https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white alt=visual-studio style="margin-bottom: 5px;" />
-</a>
-</div>
-
-
-
-
-![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+[![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/kothariji)
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kothariji"/>|
 |---|---|
+ 
+ ---
+
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/kotharidhruv/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/kothariji" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/_kothariji" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/kothariji" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/12383316/dhruv-kothari" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@kothariji" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.facebook.com/kotharidhruv25/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/_kothariji" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
+
+![Snake Graph](https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg)
 
 
-<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact" /></p>
 

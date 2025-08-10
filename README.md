@@ -6,29 +6,26 @@
 
 ## Connect with me  
 <div align="center">
- <a href="https://www.linkedin.com/in/kotharidhruv/" target="_blank">
+ <a href="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="https://github.com/AK-I-RA" target="_blank">
+<img src=https://img.shields.io/badge/github-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/kothariji" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
+<img src=https://img.shields.io/badge/codeforces-%181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=FF2D20 alt=codeforces style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/_kothariji" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://www.hackerrank.com/ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%181717.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=F37626 alt=hackerrank style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/kothariji" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/12383316/dhruv-kothari" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@kothariji" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/hackerearth-%181717.svg?&style=for-the-badge&logo=hackerearth&logoColor=white&color=232F3E alt=hackerearth style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.facebook.com/kotharidhruv25/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://instagram.com/ankitrawat7895" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_kothariji" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
+<img src=https://img.shields.io/badge/codechef-%181717.svg?&style=for-the-badge&logo=codechef&logoColor=white&color=007396 alt=codechef style="margin-bottom: 5px;" />
 </a>
 </div>
 

@@ -26,7 +26,7 @@
 </a>
 </div>
 
-![Snake Graph](https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg)
+![Snake Graph]
 
 
 

@@ -1,7 +1,7 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Ankit Rawat](https://github.com/kothariji) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 
-🤝 Let's collaborate and build something amazing!!!
+🤝 Let's collaborate and build something amazing!
 
 
 ## Connect with me  
@@ -29,7 +29,9 @@
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
+
 |---|---|
 
 

@@ -29,7 +29,12 @@
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA" height="180px"/>
+</p>
 
 
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact" /></p>

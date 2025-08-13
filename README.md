@@ -35,6 +35,6 @@
 
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact" /></p>
 
-![Snake animation](https://github.com/AK-I-RA/AK-I-RA/blob/output/github-user-contribution.svg)
+![Snake animation](https://github.com/AK-I-RA/AK-I-RA/blob/output/github-user-contribution.svg)|---|---|
 
 

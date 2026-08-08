@@ -95,13 +95,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AK-I-RA&theme=tokyonight" alt="profile summary" />
 </div>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AK-I-RA&theme=tokyonight" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AK-I-RA&theme=tokyonight" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AK-I-RA&theme=tokyonight" alt="stats" />
+</div>
 
 ---
 

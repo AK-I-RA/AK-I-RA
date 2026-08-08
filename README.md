@@ -1,40 +1,110 @@
-# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Ankit Rawat](https://github.com/AK-I-RA) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />
+  Hi, I'm Ankit Rawat
+</h1>
 
+<p align="center">
+  <em>Web developer focused on Machine Learning, LLMs & RAG — let's build something amazing together.</em>
+</p>
 
-🤝 Let's collaborate and build something amazing!
-
-
-## Connect with me  
-<div align="center">
- <a href="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-<a href="https://github.com/AK-I-RA" target="_blank">
-<img src=https://img.shields.io/badge/github-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=A8B9CC alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
-<img src=https://img.shields.io/badge/codeforces-%181717.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=FF2D20 alt=codeforces style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/ankitrawat7895" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%181717.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&color=F37626 alt=hackerrank style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
-<img src=https://img.shields.io/badge/hackerearth-%181717.svg?&style=for-the-badge&logo=hackerearth&logoColor=white&color=232F3E alt=hackerearth style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
-<img src=https://img.shields.io/badge/codechef-%181717.svg?&style=for-the-badge&logo=codechef&logoColor=white&color=007396 alt=codechef style="margin-bottom: 5px;" />
-</a>
-</div>
-
-![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AK-I-RA&label=Profile%20views&color=1E77B5&style=flat" alt="profile views" />
+</p>
 
 ---
-|<img src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA"/>|
-|---|---|
 
+## 👋 About Me
 
-<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact" /></p>
+- 🎯 I enjoy solving algorithmic problems and building side projects.
+- 🌱 Currently working at **Internshala** as a **Data Analyst**.
+- 💬 Ask me about: RAG pipelines, LLM apps, or anything data/algorithms.
+- 📫 Reach me on **LinkedIn** (below).
 
-![Snake animation](https://github.com/AK-I-RA/AK-I-RA/blob/output/github-user-contribution.svg)
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
+
+**Languages**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+**Web Development**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+**Machine Learning / LLM / RAG**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
+</p>
+
+**Data & Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AK-I-RA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/ankitrawat7895" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+  </a>
+  <a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AK-I-RA&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AK-I-RA&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>

@@ -99,13 +99,13 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&theme=tokyonight&hide_border=true" alt="streak" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AK-I-RA&theme=tokyonight" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AK-I-RA&theme=tokyonight" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AK-I-RA&theme=tokyonight" alt="stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AK-I-RA&theme=tokyonight" alt="most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AK-I-RA&theme=tokyonight" alt="stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AK-I-RA&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AK-I-RA&theme=tokyonight" alt="top langs" />
 </div>
 
 ---

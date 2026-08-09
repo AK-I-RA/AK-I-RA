@@ -95,7 +95,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AK-I-RA&theme=tokyonight" alt="profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AK-I-RA&theme=tokyonight" alt="profile summary"
+    width=93%
+    />
 </div>
 
 <div align="center">

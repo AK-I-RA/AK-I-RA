@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/ankit-rawat-934b731b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AK-I-RA" target="_blank">
+  <a href="https://github.com/AK--I--RA" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://codeforces.com/profile/AK-I-RA" target="_blank">
@@ -84,8 +84,7 @@
   <a href="https://www.hackerearth.com/@ankitrawat7895" target="_blank">
     <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
-  <a href="https://www.codechef.com/users/ankit_rawat" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <a href="https://atcoder.jp/users/AKIRAA" target="_blank"> <img src="https://img.shields.io/badge/AtCoder-FF8C00?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
   </a>
 </div>
 

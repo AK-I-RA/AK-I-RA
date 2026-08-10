@@ -18,7 +18,6 @@
 - 🎯 I enjoy solving algorithmic problems and building side projects.
 - 🌱 Currently working at **Internshala** as a **Data Analyst**.
 - 💬 Ask me about: RAG pipelines, LLM apps, or anything data/algorithms.
-- 📫 Reach me on **LinkedIn** (below).
 
 ---
 
